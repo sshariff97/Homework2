@@ -1,0 +1,5 @@
+Make: Ford    Model:    Mustang    Current Speed:    0     Mpg:                20.01    Fuel:                 20.2
+Make: Ford    Model:    Mustang    Current Speed:   76     Mpg:   18.680855369231878    Fuel:   10.842826757927657
+Make:  BMW    Model:     Cooper    Current Speed:   90     Mpg:   39.645981500331445    Fuel:    11.31897259247386
+Make:  BMW    Model:    CooperS    Current Speed:   80     Mpg:    39.58598150033144    Fuel:   10.572807340923724
+Make: Ford    Model:  MustangST    Current Speed:   73     Mpg:   19.740855369231877    Fuel:    12.69479610383605
